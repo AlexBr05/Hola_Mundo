@@ -6,6 +6,7 @@ package git;
 public class App {
 
     public static void main(String[] args) {
-        
+        String nombre = "Alex";
+          System.out.println(nombre);  
     }
 }
